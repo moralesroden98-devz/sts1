@@ -12,10 +12,7 @@
         ]
       },
       "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/dextereskalarte"
-        }
+        "network": "ws"
       }
     }
   ],
